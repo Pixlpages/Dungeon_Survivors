@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58e95a7e2aceb7c4d9cae8971c309e78, type: 3}
+  m_Name: Frozen
+  m_EditorClassIdentifier: 
+  name: Frozen
+  icon: {fileID: 0}
+  type: 2
+  variations:
+  - name: Level 1
+    effect: {fileID: 2509337235360446573, guid: a1c837031022fd344b9a8562f2552984, type: 3}
+    tint: {r: 0, g: 0.24290538, b: 1, a: 1}
+    animationSpeed: 0
+    duration: 6
+    damagePerSecond: 1
+    healPerSecond: 0
+    tickInterval: 1
+    stackType: 0
+    modifierType: 1
+    playerModifier:
+      maxHealth: 1
+      recovery: 1
+      armor: 1
+      moveSpeed: 0
+      might: 0
+      area: 1
+      speed: 1
+      duration: 1
+      amount: 1
+      cooldown: 1
+      luck: 1
+      growth: 1
+      curse: 1
+      magnet: 1
+    enemyModifier:
+      maxHealth: 1
+      moveSpeed: 0
+      damage: 0
+      knockbackMultiplier: 1
+      resistances:
+        kill: 0
+        debuff: 0
+      curseBoosts: 0
+      levelBoosts: 0

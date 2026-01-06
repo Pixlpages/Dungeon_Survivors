@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aa02e7501b8989498b47a7414c3ba6f, type: 3}
+  m_Name: Main Character
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2009802600, guid: b7082ae92e4375f48892d88aa200b55a, type: 3}
+  controller: {fileID: 22100000, guid: 4c2f7623ff8afce48a47c710ecdd358b, type: 2}
+  name: Sai-Chan
+  startingWeapon: {fileID: 11400000, guid: f4a2ac625edee0649a7a82b18df999b2, type: 2}
+  stats:
+    maxHealth: 60
+    recovery: 0.7
+    armor: 0
+    moveSpeed: 1
+    strength: 1
+    area: 1
+    speed: 1
+    duration: 1
+    amount: 0
+    cooldown: 1
+    curse: 1
+    magnet: 1

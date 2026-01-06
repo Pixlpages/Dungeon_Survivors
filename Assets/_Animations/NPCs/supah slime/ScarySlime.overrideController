@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ScarySlime
+  m_Controller: {fileID: 9100000, guid: 24e9d31d558a3d447a9f75c7ab5d6a55, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 50c8ab9fab19cd7449320d42f82a74d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 96b87f01fe5031044b1b4d05c87a8717, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 39489ea3a8c737d41a1e76049639a5a4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6a84a80b2854af847a45af1ca0802953, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8d5b82fb085ca554f9c887117566855e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8c18606affbc90b45b0b1ac583deecb9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 63b6246f36a7e7a43a677db6188e0b6f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 518f82c495992ca4093bf8e29aa20f0b, type: 2}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3118997f6d3daa54c8d809f505e35844, type: 3}
+  m_Name: MediumLateWave 1
+  m_EditorClassIdentifier: 
+  possibleSpawnPrefabs:
+  - {fileID: 5525355992637131600, guid: 3ee8062c09e02f34a8161d63657074c0, type: 3}
+  - {fileID: 568482815039676701, guid: 62cb0a532566fc544a9146e285f32829, type: 3}
+  - {fileID: 5525355992637131600, guid: 8074fb3a4dd14f34da9ce175dce3f7d6, type: 3}
+  - {fileID: 568482815039676701, guid: 5653044c0448e6849a61abb228468803, type: 3}
+  - {fileID: 568482815039676701, guid: e53d2305d07d0ce4bb4894f139ee0f57, type: 3}
+  spawnInterval: {x: 1, y: 2}
+  spawnsPerTick: {x: 40, y: 48}
+  duration: 99
+  phase: 2
+  difficulty: 1
+  startingCount: 75
+  totalSpawns: 220
+  exitConditions: 2
+  mustKillAll: 0
+  spawnCount: 0
+  enemyEntries:
+  - prefab: {fileID: 5525355992637131600, guid: 3ee8062c09e02f34a8161d63657074c0, type: 3}
+    spawnChance: 50
+  - prefab: {fileID: 568482815039676701, guid: 62cb0a532566fc544a9146e285f32829, type: 3}
+    spawnChance: 40
+  - prefab: {fileID: 5525355992637131600, guid: 8074fb3a4dd14f34da9ce175dce3f7d6, type: 3}
+    spawnChance: 40
+  - prefab: {fileID: 568482815039676701, guid: 5653044c0448e6849a61abb228468803, type: 3}
+    spawnChance: 50
+  - prefab: {fileID: 568482815039676701, guid: e53d2305d07d0ce4bb4894f139ee0f57, type: 3}
+    spawnChance: 50

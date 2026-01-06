@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97a6d3a8630fd344cab8a24f946c6ee3, type: 3}
+  m_Name: Vampiric Knives
+  m_EditorClassIdentifier: 
+  icon: {fileID: -36609868, guid: a120fe176d3e0344b9afb7f16cb6ed2a, type: 3}
+  maxLevel: 5
+  id: 0
+  rarity: 2
+  evolutionData: []
+  category: 2
+  behaviour: LifestealKnives
+  baseStats:
+    name: Vampiric Knives
+    description: Steals HP from enemies
+    projectilePrefab: {fileID: 5484200615707744358, guid: 6bf291d544f1ade40a2235783bccd305, type: 3}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 2509337235360446573, guid: 9f2ceddc17e76e643bfb20a6057a019d, type: 3}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 4
+    damage: 3
+    damageVariance: 0
+    area: 1
+    speed: 12
+    cooldown: 2
+    projectileInterval: 0
+    knockback: 0.5
+    number: 3
+    piercing: 1
+    maxInstances: 99
+    appliedBuffs: []
+  linearGrowth:
+  - name: Level 2
+    description: Increase Damage
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 3
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  - name: Level 3
+    description: Extra Projectile
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 3
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 1
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  - name: Level 4
+    description: Shorter Cooldown
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 3
+    damageVariance: 0
+    area: 0
+    speed: 2
+    cooldown: -0.5
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  - name: Level 5
+    description: VAMPIRE SURVIVOR
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 3
+    damageVariance: 0
+    area: 0
+    speed: 2
+    cooldown: -0.5
+    projectileInterval: 0
+    knockback: 0
+    number: 1
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  randomGrowth: []

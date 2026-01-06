@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c5c40e13c184644d8d89daa1fac0698, type: 3}
+  m_Name: Regen Pot
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 9a637a3d8c1b0af4fbd2758c8ad31542, type: 3}
+  maxLevel: 4
+  id: 5
+  rarity: 0
+  evolutionData: []
+  prefab: {fileID: 0}
+  category: 2
+  baseStats:
+    name: Regen Pot
+    description: Increases Passive Regen
+    boosts:
+      maxHealth: 0
+      recovery: 0.3
+      armor: 0
+      moveSpeed: 0
+      strength: 0
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      curse: 0
+      magnet: 0
+  growth:
+  - name: Level 2
+    description: Increase Passive Regen
+    boosts:
+      maxHealth: 0
+      recovery: 0.1
+      armor: 0
+      moveSpeed: 0
+      strength: 0
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      curse: 0
+      magnet: 0
+  - name: Level 3
+    description: Further Increase Passive Regen
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      armor: 0
+      moveSpeed: 0
+      strength: 0
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      curse: 0
+      magnet: 0
+  - name: Level 4
+    description: NANOMACHINES SON !!
+    boosts:
+      maxHealth: 0
+      recovery: 0.3
+      armor: 0
+      moveSpeed: 0
+      strength: 0
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      curse: 0
+      magnet: 0

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3118997f6d3daa54c8d809f505e35844, type: 3}
+  m_Name: EasyMidWave 2
+  m_EditorClassIdentifier: 
+  possibleSpawnPrefabs:
+  - {fileID: 568482815039676701, guid: 088da74837813d946be896dfdda37447, type: 3}
+  - {fileID: 568482815039676701, guid: e53d2305d07d0ce4bb4894f139ee0f57, type: 3}
+  - {fileID: 568482815039676701, guid: 0220dfd2a4e192f49a51e2a2295c1081, type: 3}
+  - {fileID: 568482815039676701, guid: 763b93952ff025a4f8d1fe71256d6078, type: 3}
+  spawnInterval: {x: 1, y: 2}
+  spawnsPerTick: {x: 15, y: 20}
+  duration: 99
+  phase: 1
+  difficulty: 0
+  startingCount: 40
+  totalSpawns: 90
+  exitConditions: 2
+  mustKillAll: 0
+  spawnCount: 0
+  enemyEntries:
+  - prefab: {fileID: 568482815039676701, guid: 088da74837813d946be896dfdda37447, type: 3}
+    spawnChance: 20
+  - prefab: {fileID: 568482815039676701, guid: e53d2305d07d0ce4bb4894f139ee0f57, type: 3}
+    spawnChance: 50
+  - prefab: {fileID: 568482815039676701, guid: 0220dfd2a4e192f49a51e2a2295c1081, type: 3}
+    spawnChance: 20
+  - prefab: {fileID: 568482815039676701, guid: 763b93952ff025a4f8d1fe71256d6078, type: 3}
+    spawnChance: 40

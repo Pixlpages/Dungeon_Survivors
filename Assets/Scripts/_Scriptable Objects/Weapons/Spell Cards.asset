@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97a6d3a8630fd344cab8a24f946c6ee3, type: 3}
+  m_Name: Spell Cards
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: aa920fe28f978804cb645228a7852d0a, type: 3}
+  maxLevel: 5
+  id: 0
+  rarity: 1
+  evolutionData: []
+  category: 1
+  behaviour: ProjectileWeapon
+  baseStats:
+    name: Spell Cards
+    description: Throw Cards inflicting Debuffs
+    projectilePrefab: {fileID: 1126490791111525503, guid: 0df16ffb3a9af0a458838e5854da87cd, type: 3}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 2509337235360446573, guid: 9f2ceddc17e76e643bfb20a6057a019d, type: 3}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 2
+    damage: 10
+    damageVariance: 0
+    area: 1
+    speed: 10
+    cooldown: 6
+    projectileInterval: 0.2
+    knockback: 1
+    number: 5
+    piercing: 2
+    maxInstances: 50
+    appliedBuffs:
+    - data: {fileID: 11400000, guid: f6a3005016790e641bbbff00179659b2, type: 2}
+      variant: 0
+      probability: 0.5
+    - data: {fileID: 11400000, guid: a9832e143d5b50f498949e6187ae8ec1, type: 2}
+      variant: 0
+      probability: 0.25
+    - data: {fileID: 11400000, guid: c2a4d1ffbc017484688ab83e614d8ea0, type: 2}
+      variant: 0
+      probability: 0.25
+  linearGrowth:
+  - name: Level 2
+    description: Extra Cards
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 2
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: -0.5
+    projectileInterval: 0
+    knockback: 0
+    number: 2
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  - name: Level 3
+    description: Extra Cards
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 3
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: -0.5
+    projectileInterval: 0
+    knockback: 0
+    number: 2
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  - name: Level 4
+    description: Extra Cards
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 5
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: -0.5
+    projectileInterval: 0
+    knockback: 0
+    number: 3
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  - name: Level 5
+    description: Pick a Card !! Any Card !!!
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 10
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: -0.5
+    projectileInterval: 0
+    knockback: 0
+    number: 4
+    piercing: 2
+    maxInstances: 0
+    appliedBuffs: []
+  randomGrowth: []

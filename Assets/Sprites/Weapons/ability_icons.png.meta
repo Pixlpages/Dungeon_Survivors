@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: a85261df0766f484481e6341fcc182bf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ability_icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50334c9dbd5d6642bdb0e4a025c1d94
+      internalID: -957037196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 972
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d19fa445fdad48a96295ca10b289a
+      internalID: -2069408794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 972
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e17ad468c1fe1f4f90b1811a44ac3cb
+      internalID: 953810402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 972
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea01402f58cdaa04f96847be4d1d5579
+      internalID: -1135010596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 972
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f498e4a4908d948a7b6bfa75f18e63
+      internalID: 427301604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 972
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07bbb9f1770e1547924dc4e2368e328
+      internalID: -878879314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 972
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f36b5a8d5cb5c648affbf40775be60a
+      internalID: 293994335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 972
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db3d950d53054b4d9724603c9ff6a49
+      internalID: 1904180738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 972
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e9ab90605e09441833283216fbcf7c
+      internalID: 671123188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_9
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 972
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b49aa80fdcda904bbfc2ce1a0939a76
+      internalID: 757195833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacfdec890ec0d6449e5d43d80de0902
+      internalID: -1730936215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 864
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63037b5a8b3c30344a30b7f55ca8dd79
+      internalID: 1349281319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 864
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac167aeab5ba0e40a41ebdb458c448b
+      internalID: -167228094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 864
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564df6f58910a7a4d8f9f78ca0a54900
+      internalID: 2010096578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 864
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6003cec4236004fb0aa4059ea78c06
+      internalID: -429949137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 864
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a499fd9b5b541c944a91b6016d8e4697
+      internalID: 2124730165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_16
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 864
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9e26efca09a1a43a3f80bed945d7d7
+      internalID: -2058885573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_17
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 864
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11267ef5634900439b015bd1c724c95
+      internalID: 225956808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 864
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41db68af703c93e4db6fda259664599b
+      internalID: 552574779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_19
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 864
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f3f88ad59874846b29ce2a30592c48
+      internalID: 1069756955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17e89f8deb8c694ba12acc3eae2fa3c
+      internalID: 621424589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 756
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455cee1a24c3ff44ab9cd30aebc6fd61
+      internalID: 1825343450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 756
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67979607c85e32d4cb39587f8807ae68
+      internalID: 314328950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 756
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b145beec5b3408419c4226a9f73ac59
+      internalID: -1869605236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 756
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adbdfedf1ab1ba4f931fa01cbcf62a0
+      internalID: 1062598323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 756
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d4579cc1263cd42ae46ccc4a9b2583
+      internalID: 1376067748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_26
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 756
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c556890d5d9692c4498a9350d093376f
+      internalID: 246284784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_27
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 756
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618eadda502ca7b47aa60d80587fb1d5
+      internalID: 1353002653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_28
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 756
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cd15ceef17c8e45a797feaa12bba61
+      internalID: 1896654758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_29
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 756
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda530d9950f1f44f827082f1b3d63c8
+      internalID: -622877160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f44c4cbab0d14d43bfb0ffed351fc65
+      internalID: -1357094874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 648
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83d61262da7cc24cb5ee28a0bbe0806
+      internalID: -243711759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 648
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019448e15ad50df4390168d85dec27f2
+      internalID: 1417060783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 648
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce643811a1865c14090bd27552eda876
+      internalID: 591728899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 648
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac0d4412d349fd4fa9a5ec95865278b
+      internalID: 1790944437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 648
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e12ca7f70e9d3d4499da7b40b75c574
+      internalID: 1334053715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_36
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 648
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc30eb74ac7c8d84e80bc8fecba5edec
+      internalID: 537831363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_37
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 648
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd43fca3f8381a24aab06ad09343a39a
+      internalID: -1693106640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 648
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190550c418d33684ab1073319bd466ef
+      internalID: 94924199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_39
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 648
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181a3e29c21068b4390f6da93deb7b6c
+      internalID: -1084498059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d653991281743f49b023a3694beea56
+      internalID: 1104307672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_41
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 540
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70a7cf3b031764eb6e034ad5c1d377
+      internalID: 944710722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 540
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e8e9e4f8fcb443aa06aa6c83719f0
+      internalID: -485768788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 540
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21acb783b7172fd4b9ed6606cf0ff751
+      internalID: -760891790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 540
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f634ba82c9067469c96ce208144c5a
+      internalID: -356973012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_45
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 540
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c3aa16b7de07c4696a8ceb5851d546
+      internalID: 836644246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_46
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 540
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311c880ef5058604e9b832f23672ffea
+      internalID: -638861059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_47
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 540
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f13242d6ed771642a6c4c2e8fb98c38
+      internalID: -394044403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_48
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 540
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd304232873fe34cb39d04f0ead815c
+      internalID: 1243451978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_49
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 540
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e3f726eeefc75478167be126535726
+      internalID: 160722778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7145ecf1ccee9cc4398a37431ede7379
+      internalID: 1072113641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 432
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb38262feae43d4e95bc1cf1b9ce8ff
+      internalID: 703616563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 432
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b439457a380828b4d845ad8c70dd2711
+      internalID: -2068878822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_53
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 432
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1655d0d13db8e4082cb68aa580ac1b
+      internalID: 66813337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af72bb71930baa4f9b2dc18547a44e1
+      internalID: -307184577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_55
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 432
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d2a47ef82eae240a32d4da5a8faa31
+      internalID: -1464938362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_56
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 432
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e04bf1d43e85b144a3e40cb4743c825
+      internalID: -178874397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_57
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 432
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7095128c07b40ea4eba49929d467c406
+      internalID: 1526619536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_58
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 432
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cd5b96d13eeb64c9ee771775235b51
+      internalID: 1787055193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_59
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 432
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a24eb256d9f6a4988e39ebe1d9f62a
+      internalID: 1315834655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6047f88e9428aba4f8ba0d0bd5dc1476
+      internalID: -1551262439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_61
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 324
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d3aeb7369d25740b64f4756d87a61a
+      internalID: -1493915534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 324
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199056af17f9b3c4ea15fb06bec09c99
+      internalID: -1705863167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_63
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 324
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9d26e241b248d409401d574bc7919f
+      internalID: -223732989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 324
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ed5b6ff40b75c4b994d6dd1cea5b8e
+      internalID: 687133826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_65
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 324
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd8589088f2a24488abff60ccd5a6b
+      internalID: 21684459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_66
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 324
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa42eaf334d174e4294fd9438f2b20da
+      internalID: 1847125618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_67
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 324
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64cf7cf8d72b3641818450a8221fa30
+      internalID: -1001130333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_68
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 324
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837b4938de72a2a45bb89e91f8cf71d8
+      internalID: -1414887621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_69
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 324
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b332abb5073d0c4a9dd0a9f51160f98
+      internalID: 949427678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620fe3588b3630344936346db3fe3474
+      internalID: -206302855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_71
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 216
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3321ea5328a86f4c8623072c8b45a08
+      internalID: -1520786388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_72
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c1e71c0abdcd0498f6bc59f6dfe4f5
+      internalID: -998990134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_73
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 216
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48207c85eb4173247bd712015f434888
+      internalID: -1123740988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 216
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a06a6a45247e4f4b86a2551d35fe745
+      internalID: -230996038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_75
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 216
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a038de9d4bda84b45be31445e783f1bc
+      internalID: 818746737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_76
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 216
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0e8eaff8f3689418225d4969bda661
+      internalID: 716981016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_77
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 216
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e41a57be6464d47b5c05d555142965
+      internalID: 1790875883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_78
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 216
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95f5382e461acd41a01f38ccce8df29
+      internalID: 231752436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_79
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 216
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f575f58975c35458b92704427aeec2
+      internalID: -169296920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f597bc3ace20ba43bd2ef924a55a42d
+      internalID: -61680780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_81
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c490d2562b492943a94eda2f129c212
+      internalID: 1445938029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_82
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 108
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679d74e1d4551474291d7043de6428a4
+      internalID: -1919516884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_83
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 108
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e0b32d8783e1740a446538a48bc4b6
+      internalID: -1672488076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_84
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 108
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13476071f46bde746a2e2607a2e13f0d
+      internalID: -1308026986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_85
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 108
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a828774f133724f8b6ca92fb6aa953
+      internalID: 1855155851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_86
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 108
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b0e5e0bc90408439c3330f48c0a986
+      internalID: -1398163422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_87
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 108
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9144e382ef506f14f9cdc74a63f5f92c
+      internalID: -1793672618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_88
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 108
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51729c656479bed40adcb5e578d59c0e
+      internalID: 647385928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_89
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 108
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc75f4329f211f488424878fd2d2771
+      internalID: 1967774387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8329386b19f4347a419bf2f4e718c4
+      internalID: -471601833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_91
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e84f0ddf58642a4594bde620d363f3e
+      internalID: -820464424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_92
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24f362267d6e8d4cb904fb133b3cc08
+      internalID: -739074438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08946c5113c44ae4f8fc16e483ebec66
+      internalID: -320741518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_94
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59737e7b2592474fb7bc0470d6e2509
+      internalID: -489373653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_95
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d8c72b6d288394c9092373bdcaf6fb
+      internalID: 966540041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_96
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24cdb390fbb9de40ad2b21dc418bf81
+      internalID: -1004632627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_97
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f54d1f2f7a95c943a71310db3291e4a
+      internalID: -182876285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_98
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777e93159fb24e4ca08e0692ed9a3f8
+      internalID: 520403857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ability_icons_99
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d6b840ef3038419ad64fc39f96c55
+      internalID: -450438658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ability_icons_0: -957037196
+      ability_icons_1: -2069408794
+      ability_icons_10: -1730936215
+      ability_icons_11: 1349281319
+      ability_icons_12: -167228094
+      ability_icons_13: 2010096578
+      ability_icons_14: -429949137
+      ability_icons_15: 2124730165
+      ability_icons_16: -2058885573
+      ability_icons_17: 225956808
+      ability_icons_18: 552574779
+      ability_icons_19: 1069756955
+      ability_icons_2: 953810402
+      ability_icons_20: 621424589
+      ability_icons_21: 1825343450
+      ability_icons_22: 314328950
+      ability_icons_23: -1869605236
+      ability_icons_24: 1062598323
+      ability_icons_25: 1376067748
+      ability_icons_26: 246284784
+      ability_icons_27: 1353002653
+      ability_icons_28: 1896654758
+      ability_icons_29: -622877160
+      ability_icons_3: -1135010596
+      ability_icons_30: -1357094874
+      ability_icons_31: -243711759
+      ability_icons_32: 1417060783
+      ability_icons_33: 591728899
+      ability_icons_34: 1790944437
+      ability_icons_35: 1334053715
+      ability_icons_36: 537831363
+      ability_icons_37: -1693106640
+      ability_icons_38: 94924199
+      ability_icons_39: -1084498059
+      ability_icons_4: 427301604
+      ability_icons_40: 1104307672
+      ability_icons_41: 944710722
+      ability_icons_42: -485768788
+      ability_icons_43: -760891790
+      ability_icons_44: -356973012
+      ability_icons_45: 836644246
+      ability_icons_46: -638861059
+      ability_icons_47: -394044403
+      ability_icons_48: 1243451978
+      ability_icons_49: 160722778
+      ability_icons_5: -878879314
+      ability_icons_50: 1072113641
+      ability_icons_51: 703616563
+      ability_icons_52: -2068878822
+      ability_icons_53: 66813337
+      ability_icons_54: -307184577
+      ability_icons_55: -1464938362
+      ability_icons_56: -178874397
+      ability_icons_57: 1526619536
+      ability_icons_58: 1787055193
+      ability_icons_59: 1315834655
+      ability_icons_6: 293994335
+      ability_icons_60: -1551262439
+      ability_icons_61: -1493915534
+      ability_icons_62: -1705863167
+      ability_icons_63: -223732989
+      ability_icons_64: 687133826
+      ability_icons_65: 21684459
+      ability_icons_66: 1847125618
+      ability_icons_67: -1001130333
+      ability_icons_68: -1414887621
+      ability_icons_69: 949427678
+      ability_icons_7: 1904180738
+      ability_icons_70: -206302855
+      ability_icons_71: -1520786388
+      ability_icons_72: -998990134
+      ability_icons_73: -1123740988
+      ability_icons_74: -230996038
+      ability_icons_75: 818746737
+      ability_icons_76: 716981016
+      ability_icons_77: 1790875883
+      ability_icons_78: 231752436
+      ability_icons_79: -169296920
+      ability_icons_8: 671123188
+      ability_icons_80: -61680780
+      ability_icons_81: 1445938029
+      ability_icons_82: -1919516884
+      ability_icons_83: -1672488076
+      ability_icons_84: -1308026986
+      ability_icons_85: 1855155851
+      ability_icons_86: -1398163422
+      ability_icons_87: -1793672618
+      ability_icons_88: 647385928
+      ability_icons_89: 1967774387
+      ability_icons_9: 757195833
+      ability_icons_90: -471601833
+      ability_icons_91: -820464424
+      ability_icons_92: -739074438
+      ability_icons_93: -320741518
+      ability_icons_94: -489373653
+      ability_icons_95: 966540041
+      ability_icons_96: -1004632627
+      ability_icons_97: -182876285
+      ability_icons_98: 520403857
+      ability_icons_99: -450438658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

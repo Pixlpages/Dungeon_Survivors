@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69a0d027cb65840439994528adfa909a, type: 3}
+  m_Name: necro ring
+  m_EditorClassIdentifier: 
+  possibleSpawnPrefabs:
+  - {fileID: 568482815039676701, guid: bde7a572278a79947be7b1d8e343800c, type: 3}
+  spawnInterval: {x: 2, y: 3}
+  spawnsPerTick: {x: 40, y: 40}
+  duration: 1
+  phase: 2
+  difficulty: 2
+  probability: 1
+  luckFactor: 1
+  activeAfter: 0
+  spawnEffectPrefab: {fileID: 8524715864016648885, guid: 826aaa2735ca7184090bfd2095738675, type: 3}
+  scale: {x: 1, y: 1}
+  spawnRadius: 10
+  lifespan: 20

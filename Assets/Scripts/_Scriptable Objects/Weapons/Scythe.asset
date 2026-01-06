@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97a6d3a8630fd344cab8a24f946c6ee3, type: 3}
+  m_Name: Scythe
+  m_EditorClassIdentifier: 
+  icon: {fileID: 757195833, guid: a85261df0766f484481e6341fcc182bf, type: 3}
+  maxLevel: 5
+  id: 3
+  rarity: 0
+  evolutionData: []
+  category: 0
+  behaviour: MeleeWeapon
+  baseStats:
+    name: Grim Scythe
+    description: Swing in an arc in front
+    projectilePrefab: {fileID: -2340761248052114129, guid: 5b19ea309d7561b4483ebf417e76bb25, type: 3}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 2509337235360446573, guid: 4f41b123289cfa04eaf58e748729342d, type: 3}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0.3
+    damage: 20
+    damageVariance: 2.5
+    area: 1
+    speed: 0
+    cooldown: 2
+    projectileInterval: 0.2
+    knockback: 0.1
+    number: 1
+    piercing: 99
+    maxInstances: 100
+    appliedBuffs: []
+  linearGrowth:
+  - name: Level 2
+    description: Attacks Deal Poison
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 0
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs:
+    - data: {fileID: 11400000, guid: a9832e143d5b50f498949e6187ae8ec1, type: 2}
+      variant: 0
+      probability: 1
+  - name: Level 3
+    description: Extra Swing
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 0
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 1
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  - name: Level 4
+    description: Extra Damage
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 3
+    damageVariance: 0
+    area: 0.2
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  - name: Level 5
+    description: Mow Them Like Grass
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 5
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 1
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  randomGrowth: []

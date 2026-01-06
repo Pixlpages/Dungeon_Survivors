@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9866b6beb4e135419b517db7403b882, type: 3}
+  m_Name: slimewall
+  m_EditorClassIdentifier: 
+  possibleSpawnPrefabs:
+  - {fileID: 568482815039676701, guid: 05f7d018583aa8c45a82e695f7f1df5c, type: 3}
+  spawnInterval: {x: 3, y: 5}
+  spawnsPerTick: {x: 10, y: 20}
+  duration: 5
+  phase: 0
+  difficulty: 2
+  probability: 1
+  luckFactor: 1
+  activeAfter: 0
+  spawnEffectPrefab: {fileID: 8524715864016648885, guid: 826aaa2735ca7184090bfd2095738675, type: 3}
+  scale: {x: 1, y: 1}
+  wallLength: 20
+  wallDistance: 10
+  lifespan: 20
+  enemyCount: 10

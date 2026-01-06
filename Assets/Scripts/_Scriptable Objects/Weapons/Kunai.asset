@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97a6d3a8630fd344cab8a24f946c6ee3, type: 3}
+  m_Name: Kunai
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: a0c992337d6eefe4998287de4bc6079f, type: 3}
+  maxLevel: 5
+  id: 1
+  rarity: 0
+  evolutionData:
+  - name: Super Kunai
+    condition: 0
+    consumes: -1
+    evolutionLevel: 1
+    catalysts:
+    - itemType: {fileID: 11400000, guid: d2df1ef78dab83a4e9f6092cbf6db7cf, type: 2}
+      level: 1
+    outcome:
+      itemType: {fileID: 0}
+      level: 0
+  category: 0
+  behaviour: ProjectileWeapon
+  baseStats:
+    name: Kunai
+    description: Throw a Kunai Forward
+    projectilePrefab: {fileID: 1126490791111525503, guid: de095e161febab74ba3a5341524ebdf7, type: 3}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 2509337235360446573, guid: 9f2ceddc17e76e643bfb20a6057a019d, type: 3}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.7
+      height: 0.7
+    lifespan: 4
+    damage: 2
+    damageVariance: 2
+    area: 1
+    speed: 12
+    cooldown: 1
+    projectileInterval: 0.1
+    knockback: 0.5
+    number: 3
+    piercing: 3
+    maxInstances: 70
+    appliedBuffs: []
+  linearGrowth:
+  - name: Level 2
+    description: Fires 1 More Projectile
+    projectilePrefab: {fileID: 1126490791111525503, guid: de095e161febab74ba3a5341524ebdf7, type: 3}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.7
+      height: 0.7
+    lifespan: 0
+    damage: 2
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 1
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  - name: Level 3
+    description: Fires 1 More Projectile
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.7
+      height: 0.7
+    lifespan: 0
+    damage: 3
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 1
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  - name: Level 4
+    description: Fires 1 More Projectile and Reduce Cooldown
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.77
+      height: 0.7
+    lifespan: 0
+    damage: 2
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: -0.25
+    projectileInterval: 0
+    knockback: 0
+    number: 1
+    piercing: 0
+    maxInstances: 0
+    appliedBuffs: []
+  - name: Level 5
+    description: Ninja Master
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    procEffect: {fileID: 0}
+    vfxKey: 
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.7
+      height: 0.7
+    lifespan: 0
+    damage: 3
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 3
+    piercing: 8
+    maxInstances: 0
+    appliedBuffs: []
+  randomGrowth: []
